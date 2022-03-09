@@ -53,7 +53,6 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS Custom Properties
 - Mobile-first Workflow
 - Flexbox
 - Font Awesome
