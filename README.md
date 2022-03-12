@@ -6,7 +6,7 @@ This is a solution to the [Ping Single Column Coming Soon Page Challenge on Fron
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
+- [Screenshot](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
